@@ -89,8 +89,8 @@ If you want to contribute:
 ## 📬 Contact
 
 - **Email**: singh.shubhraj06@gmail.com
-- **GitHub**: [@your-username](https://github.com/shubhraj-singh)  
-- **LinkedIn**: [linkedin.com/in/your-username](https://www.linkedin.com/in/shubh-raj-singh-687023255)
+- **GitHub**: [https://github.com/shubhraj-singh]
+- **LinkedIn**: [https://www.linkedin.com/in/shubh-raj-singh-687023255]
 
 ---
 
