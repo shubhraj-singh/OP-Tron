@@ -29,14 +29,21 @@ A fully responsive Blinkit Clone App built using **HTML**, **CSS**, and **JavaSc
 
 ## 📁 Project Structure
 
+```
 blinkit-clone/
 │
-├── index.html # Main homepage
-├── style.css # All styling rules
-├── script.js # DOM interactions and cart logic
-├── assets/ # Product images, icons, and logos
-├── cart.html # Cart/checkout page (optional)
-└── README.md # Project documentation
+├── index.html           # Main homepage
+├── style.css            # CSS for styling all pages
+├── script.js            # JavaScript logic for UI and cart
+├── cart.html            # (Optional) Cart or Checkout page
+├── assets/              # Folder for images, icons, etc.
+│   ├── logo.png
+│   ├── banner.jpg
+│   └── product-images/
+│       ├── milk.png
+│       └── apple.png
+├── README.md            # Project documentation
+```
 
 
 ---
