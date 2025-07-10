@@ -53,7 +53,7 @@ blinkit-clone/
 To run this project locally:
 
 1. **Clone the repository**  
-git clone https://github.com/your-username/blinkit-clone.git
+git clone https://github.com/shubhraj-singh/OP-Tron.git
 
 
 2. **Navigate to the project folder**  
